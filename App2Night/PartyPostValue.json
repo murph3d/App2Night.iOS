@@ -1,17 +1,17 @@
 {
-  "partyName": "string",
-  "partyDate": "2016-10-25T17:12:22.865Z",
-  "musicGenre": 0,
-  "location": {
-    "countryName": "string",
-    "cityName": "string",
-    "streetName": "string",
-    "houseNumber": 0,
-    "houseNumberAdditional": "string",
-    "zipcode": 0,
-    "latitude": 0,
-    "longitude": 0
-  },
-  "partyType": 0,
-  "description": "string"
+    "partyName": "string",
+    "partyDate": "2016-10-29T16:45:40.400Z",
+    "musicGenre": 0,
+    "location": {
+        "countryName": "string",
+        "cityName": "string",
+        "streetName": "string",
+        "houseNumber": 0,
+        "houseNumberAdditional": "string",
+        "zipcode": 0,
+        "latitude": 0,
+        "longitude": 0
+    },
+    "partyType": 0,
+    "description": "string"
 }

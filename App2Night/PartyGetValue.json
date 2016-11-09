@@ -1,0 +1,23 @@
+{
+	"PartyId": "8396e318-a972-40be-3992-08d4081922fd",
+	"PartyName": "Test test test",
+	"Price": 0,
+	"PartyDate": "2016-12-10T20:26:43.624",
+	"MusicGenre": 2,
+	"PartyType": 1,
+	"Description": "This is a party description...",
+	"Location": {
+		"CountryName": "Germany",
+		"CityName": "Horb am Neckar",
+		"StreetName": "Florianstra\u00dfe",
+		"HouseNumber": "11",
+		"HouseNumberAdditional": "",
+		"Zipcode": "72160",
+		"Latitude": 48.4452168,
+		"Longitude": 8.6962267
+	},
+	"Host": {
+		"HostId": "7754fde5-ec70-45b5-72dc-08d403b9007a",
+		"UserName": "Markus"
+	}
+}

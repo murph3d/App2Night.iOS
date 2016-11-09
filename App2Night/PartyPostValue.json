@@ -1,17 +1,13 @@
 {
 	"partyName": "string",
-	"partyDate": "2016-11-07T20:01:57.569Z",
+	"partyDate": "2016-11-09T15:52:32.423Z",
 	"musicGenre": 0,
-	"location": {
-		"countryName": "string",
-		"cityName": "string",
-		"streetName": "string",
-		"houseNumber": 0,
-		"houseNumberAdditional": "string",
-		"zipcode": 0,
-		"latitude": 0,
-		"longitude": 0
-	},
+	"countryName": "string",
+	"cityName": "string",
+	"streetName": "string",
+	"houseNumber": "string",
+	"houseNumberAdditional": "string",
+	"zipcode": "string",
 	"partyType": 0,
 	"description": "string"
 }

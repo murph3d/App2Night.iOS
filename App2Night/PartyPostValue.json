@@ -1,13 +1,12 @@
-{
-	"partyName": "string",
-	"partyDate": "2016-11-09T15:52:32.423Z",
-	"musicGenre": 0,
-	"countryName": "string",
-	"cityName": "string",
-	"streetName": "string",
-	"houseNumber": "string",
-	"houseNumberAdditional": "string",
-	"zipcode": "string",
-	"partyType": 0,
-	"description": "string"
-}
+[
+ "partyName": "string",
+ "partyDate": "2016-11-26T12:38:29.715Z",
+ "musicGenre": 0,
+ "countryName": "string",
+ "cityName": "string",
+ "streetName": "string",
+ "houseNumber": "string",
+ "zipcode": "string",
+ "partyType": 0,
+ "description": "string"
+]

@@ -1,5 +1,5 @@
 [
-  {
+ [
   "PartyId": "6cd1388a-b00f-45f1-5886-08d4130bbd19",
   "PartyName": "Swagger Party",
   "Price": 0,
@@ -7,19 +7,56 @@
   "MusicGenre": 3,
   "PartyType": 1,
   "Description": "This is a test description...",
-  "Location": {
-  "CountryName": "Germany",
-  "CityName": "Horb am Neckar",
-  "StreetName": "Florianstraße",
-  "HouseNumber": "12",
-  "Zipcode": "72160",
-  "Latitude": 48.44527,
-  "Longitude": 8.6961
-  },
-  "Host": {
-  "HostId": "7754fde5-ec70-45b5-72dc-08d403b9007a",
-  "UserName": "Markus"
-  },
+  "Location": [
+			   "CountryName": "Germany",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "12",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44527,
+			   "Longitude": 8.6961
+			   ],
+  "Host": [
+		   "HostId": "7754fde5-ec70-45b5-72dc-08d403b9007a",
+		   "UserName": "Markus"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": [
+					[
+					 "UserId": "7754fde5-ec70-45b5-72dc-08d403b9007a",
+					 "UserName": "Markus"
+					 ]
+					]
+  ],
+ [
+  "PartyId": "a4b6604d-348c-4097-34db-08d4145d2b3c",
+  "PartyName": "iOS Party",
+  "Price": 0,
+  "PartyDate": "2016-12-24T12:00:00.001",
+  "MusicGenre": 0,
+  "PartyType": 0,
+  "Description": "iOS Description",
+  "Location": [
+			   "CountryName": "Germany",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "12",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44527,
+			   "Longitude": 8.6961
+			   ],
+  "Host": [
+		   "HostId": "910cabd0-8027-4685-fd90-08d40c6efe0e",
+		   "UserName": "robin"
+		   ],
   "HostedByUser": false,
   "GeneralUpVoting": 0,
   "GeneralDownVoting": 0,
@@ -30,5 +67,165 @@
   "MoodUpVoting": 0,
   "MoodDownVoting": 0,
   "CommittedUser": []
-  }
+  ],
+ [
+  "PartyId": "c22ab48a-a44e-459c-34dc-08d4145d2b3c",
+  "PartyName": "tedt",
+  "Price": 0,
+  "PartyDate": "2017-02-24T00:00:00.001",
+  "MusicGenre": 1,
+  "PartyType": 0,
+  "Description": "gghhhh",
+  "Location": [
+			   "CountryName": "Germany",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "15",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44503,
+			   "Longitude": 8.6965
+			   ],
+  "Host": [
+		   "HostId": "135f103e-f829-422d-423c-08d4030808a0",
+		   "UserName": "test"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": []
+  ],
+ [
+  "PartyId": "2da8e011-dd13-4cac-34dd-08d4145d2b3c",
+  "PartyName": "tedt",
+  "Price": 0,
+  "PartyDate": "2017-02-24T00:00:00.001",
+  "MusicGenre": 1,
+  "PartyType": 0,
+  "Description": "gghhhh",
+  "Location": [
+			   "CountryName": "Germany",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "15",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44503,
+			   "Longitude": 8.6965
+			   ],
+  "Host": [
+		   "HostId": "135f103e-f829-422d-423c-08d4030808a0",
+		   "UserName": "test"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": []
+  ],
+ [
+  "PartyId": "53a2be86-5595-4ff7-34de-08d4145d2b3c",
+  "PartyName": "tedt",
+  "Price": 0,
+  "PartyDate": "2017-02-24T00:00:00.001",
+  "MusicGenre": 1,
+  "PartyType": 0,
+  "Description": "gghhhh",
+  "Location": [
+			   "CountryName": "Germany",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "15",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44503,
+			   "Longitude": 8.6965
+			   ],
+  "Host": [
+		   "HostId": "135f103e-f829-422d-423c-08d4030808a0",
+		   "UserName": "test"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": []
+  ],
+ [
+  "PartyId": "dc8a5591-0d5a-4ae1-78f2-08d4154dca96",
+  "PartyName": "HorbTest",
+  "Price": 0,
+  "PartyDate": "2016-12-25T17:11:00.001",
+  "MusicGenre": 2,
+  "PartyType": 0,
+  "Description": "Hier können Sie weitere Informationen zu ihrer Veranstaltung eintragen wie z.B. besondere Angebote oder Auftritte.",
+  "Location": [
+			   "CountryName": "Deutschland",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "15",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44503,
+			   "Longitude": 8.6965
+			   ],
+  "Host": [
+		   "HostId": "fd78e604-6765-4787-cfbc-08d414657fab",
+		   "UserName": "YvetteLa"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": []
+  ],
+ [
+  "PartyId": "075ea682-14e4-4ff7-790f-08d4157abf7e",
+  "PartyName": "Hallo",
+  "Price": 0,
+  "PartyDate": "2016-12-24T23:00:00.001",
+  "MusicGenre": 5,
+  "PartyType": 0,
+  "Description": "Test",
+  "Location": [
+			   "CountryName": "Deutschland",
+			   "CityName": "Horb am Neckar",
+			   "StreetName": "Florianstraße",
+			   "HouseNumber": "15",
+			   "Zipcode": "72160",
+			   "Latitude": 48.44503,
+			   "Longitude": 8.6965
+			   ],
+  "Host": [
+		   "HostId": "fd78e604-6765-4787-cfbc-08d414657fab",
+		   "UserName": "YvetteLa"
+		   ],
+  "HostedByUser": false,
+  "GeneralUpVoting": 0,
+  "GeneralDownVoting": 0,
+  "PriceUpVotring": 0,
+  "PriceDownVoting": 0,
+  "LocationUpVoting": 0,
+  "LocationDownVoting": 0,
+  "MoodUpVoting": 0,
+  "MoodDownVoting": 0,
+  "CommittedUser": []
+  ]
 ]

@@ -1,7 +1,78 @@
-{
-	"username": "robin",
-	"password": "ios",
-	"email": "robin@app2night.de"
-}
+[
+ [
+  "username": "robin",
+  "password": "ios",
+  "email": "robin@app2night.de"
+  ],
+ [
+  "userId": "910cabd0-8027-4685-fd90-08d40c6efe0e"
+  ],
+ [
+  "access_token" = "7c89f66bb2bcbed2c37b225f7f8a0b756219bf3452fbebd7d518d856666ca0b3";
+  "expires_in" = 3600;
+  "refresh_token" = "58db0a8701eb63b53ef64b214681591fb91388dec14ecde28b28c7589e227177";
+  "token_type" = Bearer;
+  ]
+]
 
-response: "910cabd0-8027-4685-fd90-08d40c6efe0e"
+/*
+ {
+ "issuer": "https://app2nightuser.azurewebsites.net",
+ "jwks_uri": "https://app2nightuser.azurewebsites.net/.well-known/openid-configuration/jwks",
+ "authorization_endpoint": "https://app2nightuser.azurewebsites.net/connect/authorize",
+ "token_endpoint": "https://app2nightuser.azurewebsites.net/connect/token",
+ "userinfo_endpoint": "https://app2nightuser.azurewebsites.net/connect/userinfo",
+ "end_session_endpoint": "https://app2nightuser.azurewebsites.net/connect/endsession",
+ "check_session_iframe": "https://app2nightuser.azurewebsites.net/connect/checksession",
+ "revocation_endpoint": "https://app2nightuser.azurewebsites.net/connect/revocation",
+ "introspection_endpoint": "https://app2nightuser.azurewebsites.net/connect/introspect",
+ "frontchannel_logout_supported": true,
+ "frontchannel_logout_session_supported": true,
+ "scopes_supported": [
+ "openid",
+ "email",
+ "offline_access",
+ "App2NightAPI"
+ ],
+ "claims_supported": [
+ "sub",
+ "email",
+ "email_verified"
+ ],
+ "response_types_supported": [
+ "code",
+ "token",
+ "id_token",
+ "id_token token",
+ "code id_token",
+ "code token",
+ "code id_token token"
+ ],
+ "response_modes_supported": [
+ "form_post",
+ "query",
+ "fragment"
+ ],
+ "grant_types_supported": [
+ "authorization_code",
+ "client_credentials",
+ "refresh_token",
+ "implicit",
+ "password"
+ ],
+ "subject_types_supported": [
+ "public"
+ ],
+ "id_token_signing_alg_values_supported": [
+ "RS256"
+ ],
+ "token_endpoint_auth_methods_supported": [
+ "client_secret_basic",
+ "client_secret_post"
+ ],
+ "code_challenge_methods_supported": [
+ "plain",
+ "S256"
+ ]
+ }
+*/

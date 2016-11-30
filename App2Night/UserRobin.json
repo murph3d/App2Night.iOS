@@ -8,10 +8,10 @@
   "userId": "910cabd0-8027-4685-fd90-08d40c6efe0e"
   ],
  [
-  "access_token" = "7c89f66bb2bcbed2c37b225f7f8a0b756219bf3452fbebd7d518d856666ca0b3";
-  "expires_in" = 3600;
-  "refresh_token" = "58db0a8701eb63b53ef64b214681591fb91388dec14ecde28b28c7589e227177";
-  "token_type" = Bearer;
+  "access_token": "cfd6506bb5e0169b187e7dd4fb2bfaed58a815ef79a3dd71b3905bc6589a5ece",
+  "expires_in": 3600,
+  "token_type": "Bearer",
+  "refresh_token": "7dc3c904a60a5d709d347c2202697eb856313f548ccfa08498d649da613abb35"
   ]
 ]
 

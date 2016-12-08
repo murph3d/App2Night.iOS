@@ -10,3 +10,9 @@
  "partyType": 0,
  "description": "string"
 ]
+
+ "countryName": "string",
+ "cityName": "string",
+ "streetName": "string",
+ "houseNumber": "string",
+ "zipcode": "string",
